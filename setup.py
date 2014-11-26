@@ -7,6 +7,6 @@ setup(name='pysnmp_mibs',
       description='precompiled python SNMP MIBs',
       author='oriordan',
       author_email='oriordan@github.com',
-      url='https://github.com/oriordan/pysnmp_mibs',
+      url='https://github.com/statelessnetworks/pysnmp_mibs',
       packages=['snmp-mibs']
 )
