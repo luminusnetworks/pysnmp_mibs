@@ -8,5 +8,5 @@ setup(name='pysnmp_mibs',
       author='oriordan',
       author_email='oriordan@github.com',
       url='https://github.com/statelessnetworks/pysnmp_mibs',
-      packages=['pysnmp-mibs']
+      packages=['pysnmp_mibs']
 )
