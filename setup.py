@@ -2,11 +2,11 @@
 
 from setuptools import setup
 
-setup(name='python_pysnmp_mibs',
+setup(name='pysnmp_mibs',
       version='0.1',
       description='precompiled python SNMP MIBs',
       author='oriordan',
       author_email='oriordan@github.com',
       url='https://github.com/statelessnetworks/pysnmp_mibs',
-      packages=['python-snmp-mibs']
+      packages=['pysnmp-mibs']
 )
